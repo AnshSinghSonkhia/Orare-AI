@@ -1,4 +1,4 @@
-# 🔥 Orare AI: Text to AI Avatar Video Gen
+# 🔥 Orare AI: Deep Learning Based Automated Digital Human for Video Commentary
 
 
 <p align="center">
