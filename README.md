@@ -1,4 +1,4 @@
-# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/033acf25-7748-4ea3-a04f-b4c0b54bed0e" /> Orare AI: Text to AI Avatar Video Gen
+# 🔥 Orare AI: Deep Learning Based Automated Digital Human for Video Commentary
 
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>An advanced AI-powered platform for generating realistic talking avatar videos from any text script. The system automates text-to-speech conversion, lip-synced video creation, and avatar animation using deep learning, allowing users to create lifelike virtual presenters for various contexts—news, education, announcements, and more. Features include multiple text-to-speech engine options (online/offline), voice selection, and an intuitive interface available both as a desktop GUI and web app. The solution streamlines content production for anyone seeking dynamic, engaging video presentations.</b>
+  <b>An advanced AI-powered platform for generating realistic talking avatar videos from any text script. The system automates text-to-speech conversion, lip-synced video creation, and avatar animation using deep learning, allowing users to create lifelike virtual presenters for various contexts: news, education, announcements, and more. Features include multiple text-to-speech engine options (online/offline), voice selection, and an intuitive interface available both as a desktop GUI and web app. The solution streamlines content production for anyone seeking dynamic, engaging video presentations.</b>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=KXMh7-ApLBg" target="_blank">
-    <img src="https://github.com/user-attachments/assets/837fd679-4163-43e2-af0e-31fdb0e4a65f" 
+    <img src="https://github.com/AnshSinghSonkhia/AI-Commentator-Avatar/blob/main/assets/avatars/avatar-tech.png" 
          alt="Ansh Singh Sonkhia on News" 
          width="2816" height="1536"/
     >
@@ -38,14 +38,13 @@ Transform news and live sports commentary into engaging video content with our A
 
 ## ✨ Key Features
 
-- 🎮 **Interactive GUI Interface** - User-friendly Tkinter-based control panel
-- 🌐 **Streamlit Web App** - Run the project in your browser with a modern Streamlit interface
-- 📰 **Smart News Fetching** - Automatically retrieves the latest sports news from Google News  
--- 🗣️ **Flexible Text-to-Speech** - Choose between Google's gTTS (online) and pyttsx3 (offline, multi-voice)
-- 🎤 **Voice Selection** - Select from available system voices when using pyttsx3
-- 👄 **Advanced Lip-Sync Technology** - Wav2Lip integration for perfect mouth movements
-- 🎬 **Professional Video Output** - Seamlessly merged audio-video with background effects
-- 🏆 **Sports-Focused Content** - Specialized in sports commentary and match analysis
+- 🎮 **Interactive GUI Interface** - User-friendly Tkinter-based control panel.
+- 🌐 **Streamlit Web App** - Run the project in your browser with a modern Streamlit interface.
+- 📰 **Smart News Fetching** - Automatically retrieves the latest news from Google News based on keywords.  
+- 🗣️ **Flexible Text-to-Speech** - Choose between Google's gTTS (online) and pyttsx3 (offline, multi-voice).
+- 🎤 **Voice Selection** - Select from available system voices when using pyttsx3.
+- 👄 **Advanced Lip-Sync Technology** - Wav2Lip integration for perfect mouth movements.
+- 🎬 **Professional Video Output** - Seamlessly merged audio-video with Lip-Sync.
 
 ## 🆕 New Features (Aug, 2025)
 
@@ -53,6 +52,9 @@ Transform news and live sports commentary into engaging video content with our A
 - Voice selection: Pick from available system voices when using pyttsx3 or coqui-tts
 - All features accessible via the GUI
 - Streamlit web app: Run `streamlit run streamlit-app.py` for a browser-based experience
+
+## Future Features
+- 🏆 **Sports-Focused Content** - Specialized in sports commentary and match analysis.
 
 ## 📁 Project Structure
 
@@ -163,3 +165,4 @@ For any queries or issues, please contact via GitHub issues or open a pull reque
 <p align="center">
   <i>Brought to you by Ansh Singh Sonkhia, B.Tech in CSE (Artificial Intelligence and Machine Learning)</i>
 </p>
+

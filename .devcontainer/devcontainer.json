@@ -1,0 +1,30 @@
+{
+  "name": "AI-Commentator-Avatar Dev Container",
+  "context": "..",
+  "dockerFile": "Dockerfile",
+  "runArgs": [
+    "--gpus",
+    "all"
+  ],
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "python.pythonPath": "/usr/local/bin/python"
+      },
+      "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "streetsidesoftware.code-spell-checker"
+      ]
+    }
+  },
+  "forwardPorts": [
+    8501
+  ],
+  "remoteUser": "root",
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+  ]
+}
