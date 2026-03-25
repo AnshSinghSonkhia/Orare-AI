@@ -17,3 +17,5 @@ librosa
 opencv-contrib-python>=4.2.0.34
 coqui-tts[server]
 pywebview
+feedparser
+re
